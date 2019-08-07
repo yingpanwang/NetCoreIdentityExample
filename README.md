@@ -1,0 +1,2 @@
+# NetCoreIdentityExample
+实现了NetCore 中MVC 登陆后使用Cookie保存登陆状态的示例
