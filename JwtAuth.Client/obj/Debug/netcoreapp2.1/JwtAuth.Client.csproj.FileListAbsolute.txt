@@ -1,0 +1,14 @@
+/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/bin/Debug/netcoreapp2.1/JwtAuth.Client.deps.json
+/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/bin/Debug/netcoreapp2.1/JwtAuth.Client.runtimeconfig.json
+/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/bin/Debug/netcoreapp2.1/JwtAuth.Client.runtimeconfig.dev.json
+/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/bin/Debug/netcoreapp2.1/JwtAuth.Client.dll
+/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/bin/Debug/netcoreapp2.1/JwtAuth.Client.pdb
+/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/obj/Debug/netcoreapp2.1/JwtAuth.Client.csprojAssemblyReference.cache
+/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/obj/Debug/netcoreapp2.1/JwtAuth.Client.csproj.CoreCompileInputs.cache
+/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/obj/Debug/netcoreapp2.1/JwtAuth.Client.RazorAssemblyInfo.cache
+/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/obj/Debug/netcoreapp2.1/JwtAuth.Client.RazorAssemblyInfo.cs
+/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/obj/Debug/netcoreapp2.1/JwtAuth.Client.AssemblyInfoInputs.cache
+/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/obj/Debug/netcoreapp2.1/JwtAuth.Client.AssemblyInfo.cs
+/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/obj/Debug/netcoreapp2.1/JwtAuth.Client.RazorTargetAssemblyInfo.cache
+/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/obj/Debug/netcoreapp2.1/JwtAuth.Client.dll
+/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/obj/Debug/netcoreapp2.1/JwtAuth.Client.pdb

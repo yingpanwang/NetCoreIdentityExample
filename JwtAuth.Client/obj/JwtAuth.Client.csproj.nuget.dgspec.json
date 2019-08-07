@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/JwtAuth.Client.csproj": {}
+  },
+  "projects": {
+    "/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/JwtAuth.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/JwtAuth.Client.csproj",
+        "projectName": "JwtAuth.Client",
+        "projectPath": "/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/JwtAuth.Client.csproj",
+        "packagesPath": "/Users/wangyingpan/.nuget/packages/",
+        "outputPath": "/Users/wangyingpan/Projects/JwtAuth/JwtAuth.Client/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/wangyingpan/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "http://192.168.1.210:999/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
